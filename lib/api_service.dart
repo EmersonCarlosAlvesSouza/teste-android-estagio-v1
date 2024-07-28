@@ -4,7 +4,7 @@ import 'dart:convert';
 
 class ApiService {
   static const String _baseUrl = 'https://api.olhovivo.sptrans.com.br/v2.1';
-  static const String _apiKey = 'cc88316779b5ef435b14c6df4116945df6468adedd448d3dc3ccf32e087d075d';  // Substitua pela sua chave de API
+  static const String _apiKey = 'SUA_CHAVE_API_OLHO_VIVO';  // Substitua pela sua chave de API
   static bool isAuthenticated = false;
   static var client = http.Client();
   static Map<String, String> headers = {};
