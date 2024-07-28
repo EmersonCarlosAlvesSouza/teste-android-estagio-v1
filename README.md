@@ -14,4 +14,7 @@ Para rodar esse Projeto é necessário duas chaves de API. <br>
 /android/app/src/main/AndroidManifest.xml 
 <br>
 <br>
-##2 - A segunda chave é da API Olho vivo e deve ser colocada no arquivo api_service que esta nesse caminho: lib/api_service.dart
+##2 - A segunda chave é da API Olho vivo e deve ser colocada no arquivo api_service que esta nesse caminho: 
+<br>
+<br>
+lib/api_service.dart
